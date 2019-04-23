@@ -1,0 +1,447 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<FATAL>                          :  while the separation is thought to be 0.101365
+***> abort program execution
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<FATAL>                          :  while the separation is thought to be 0.17646
+***> abort program execution
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(10:41 INFO) [34m - Found defined [0m[32mROOTSYS[0m[34m = "[0m[33m/home/andrew/ProjectInstalls/root[0m[34m". Setting glob.rootHome to match[0m
+(10:41 INFO) [34m - Will use [0m[32mROOTSYS[0m[34m = "[0m[33m/home/andrew/ProjectInstalls/root[0m[34m"[0m
+(10:41 INFO) [34m - Adding to [0m[32mLD_LIBRARY_PATH[0m[34m "[0m[33m/home/andrew/ProjectInstalls/root/lib/[0m[34m"[0m
+(10:41 INFO) [40;37;1m - 29/03/19 10:41:17 - starting ANNZ[0m
+(10:41 INFO) [33m - Will run /home/andrew/ProjectInstalls/ANNZ/lib/myANNZ with the following user-options: [0m
+(10:41 INFO)    [34mgeneralOptI[0m[31m=[0m'[32m-1[0m' , [34mtrainIndex[0m[31m=[0m'[32m-1[0m' , [34mdoSingleCls[0m[31m=[0m'[32mFalse[0m' , [34mmaxNobj[0m[31m=[0m'[32m0[0m' , [34mdoVerif[0m[31m=[0m'[32mFalse[0m' , [34mgeneralOptS[0m[31m=[0m'[32mNULL[0m' , [34mdoPlots[0m[31m=[0m'[32mTrue[0m' , [34mnErrKNN[0m[31m=[0m'[32m90[0m' , [34mdoTrain[0m[31m=[0m'[32mFalse[0m' , [34mdoInTrainFlag[0m[31m=[0m'[32mFalse[0m' , [34mnMLMs[0m[31m=[0m'[32m70[0m' , [34minitSeedRnd[0m[31m=[0m'[32m0[0m' , [34msampleFrac_errKNN[0m[31m=[0m'[32m1[0m' , [34mdoEval[0m[31m=[0m'[32mFalse[0m' , [34mdoOptim[0m[31m=[0m'[32mTrue[0m' , [34moutDirName[0m[31m=[0m'[32mSPEC_advanced20[0m' , [34maddOutputVars[0m[31m=[0m'[32mref_id;zb;pz_width;odds;qz;production_id;paudm_id;ra;dec;zspec;conf[0m' , [34mdoRandomCls[0m[31m=[0m'[32mFalse[0m' , [34mmaxValZ[0m[31m=[0m'[32m1.2[0m' , [34misBatch[0m[31m=[0m'[32mTrue[0m' , [34mdoClassification[0m[31m=[0m'[32mFalse[0m' , [34mdoAsciiToFits[0m[31m=[0m'[32mFalse[0m' , [34mdoFitsToAscii[0m[31m=[0m'[32mFalse[0m' , [34mdoRandomReg[0m[31m=[0m'[32mTrue[0m' , [34mnPDFbins[0m[31m=[0m'[32m120[0m' , [34mminValZ[0m[31m=[0m'[32m0.0[0m' , [34mdoGenInputTrees[0m[31m=[0m'[32mFalse[0m' , [34mmax_sigma68_PDF[0m[31m=[0m'[32m0.045[0m' , [34mdoSingleReg[0m[31m=[0m'[32mFalse[0m' , [34mdoRegression[0m[31m=[0m'[32mTrue[0m' , [34mMLMsToStore[0m[31m=[0m'[32m[0m' , [34mdoBinnedCls[0m[31m=[0m'[32mFalse[0m' , [34mprintPlotExtension[0m[31m=[0m'[32m.png[0m' , [34mzTrg[0m[31m=[0m'[32mzspec[0m' , [34mdoOnlyKnnErr[0m[31m=[0m'[32mFalse[0m' , [34mnPDFs[0m[31m=[0m'[32m1[0m' , 
+(10:41 INFO) 
+[10:41:18    INFO]  -----------------------------------------------------
+[10:41:18    INFO]  - Welcome to ANNZ v2.3.0 (using ROOT v6.14/06) -
+[10:41:18    INFO]  -----------------------------------------------------------------------------------------------------------
+[10:41:22    INFO]  - starting ANNZ::Init()  ... 
+[10:41:22    INFO]  - Will generate 1 PDFs ... 
+[10:42:03    INFO] --------------------------------------------------------
+[10:42:03    INFO]  - All ACCEPTED MLMs: ANNZ_0,ANNZ_1,ANNZ_2,ANNZ_3,ANNZ_4,ANNZ_5,ANNZ_6,ANNZ_7,ANNZ_8,ANNZ_9,ANNZ_10,ANNZ_11,ANNZ_12,ANNZ_13,ANNZ_14,ANNZ_15,ANNZ_16,ANNZ_17,ANNZ_18,ANNZ_19,ANNZ_20,ANNZ_21,ANNZ_22,ANNZ_23,ANNZ_24,ANNZ_25,ANNZ_26,ANNZ_27,ANNZ_28,ANNZ_29,ANNZ_30,ANNZ_31,ANNZ_32,ANNZ_33,ANNZ_34,ANNZ_35,ANNZ_36,ANNZ_37,ANNZ_38,ANNZ_39,ANNZ_40,ANNZ_41,ANNZ_42,ANNZ_43,ANNZ_44,ANNZ_45,ANNZ_46,ANNZ_47,ANNZ_48,ANNZ_49,ANNZ_50,ANNZ_51,ANNZ_52,ANNZ_53,ANNZ_54,ANNZ_55,ANNZ_56,ANNZ_57,ANNZ_58,ANNZ_59,ANNZ_60,ANNZ_61,ANNZ_62,ANNZ_63,ANNZ_64,ANNZ_65,ANNZ_66,ANNZ_67,ANNZ_68,ANNZ_69,
+[10:42:03    INFO]  - All REJECTED MLMs: 
+[10:42:03    INFO] ----------------------------------------------------------------------------------------------------------------
+[10:42:07    INFO]  - Saving run information in ./output/SPEC_advanced20/regres/optim/saveOpt.txt ...
+[10:43:41    INFO]  - starting ANNZ::Optim() ... 
+[10:43:41    INFO]  - starting ANNZ::makeTreeRegClsAllMLM() ... 
+[10:43:42    INFO]  - Did not find requred merged result-trees with the correct number of entries -> Will do merging ...
+[10:44:40    INFO]  - Found 70 MLM trees to merge, but have maxTreesMerge = 50 -> Will merge in 2 sub-steps
+[10:44:40    INFO]  - Now in merging loop 1/2
+[10:44:44    INFO]  - starting ANNZ::mergeTreeFriends() ... 
+[10:44:46    INFO]  - Now in merging loop 2/2
+[10:44:50    INFO]  - starting ANNZ::mergeTreeFriends() ... 
+[10:44:51    INFO]  - Now in final merging of all sub-steps ...
+[10:44:51    INFO]  - starting ANNZ::mergeTreeFriends() ... 
+[10:44:53    INFO]  - starting ANNZ::verifyIndicesMLM(ANNZ_tree_train , ./output/SPEC_advanced20/regres/train/postTrain/ANNZ_tree_train_00001.root) ... 
+[10:45:50    INFO]  - Found 70 MLM trees to merge, but have maxTreesMerge = 50 -> Will merge in 2 sub-steps
+[10:45:50    INFO]  - Now in merging loop 1/2
+[10:45:54    INFO]  - starting ANNZ::mergeTreeFriends() ... 
+[10:45:54    INFO]  - Now in merging loop 2/2
+[10:45:58    INFO]  - starting ANNZ::mergeTreeFriends() ... 
+[10:45:59    INFO]  - Now in final merging of all sub-steps ...
+[10:45:59    INFO]  - starting ANNZ::mergeTreeFriends() ... 
+[10:45:59    INFO]  - starting ANNZ::verifyIndicesMLM(ANNZ_tree_valid , ./output/SPEC_advanced20/regres/train/postTrain/ANNZ_tree_valid_00001.root) ... 
+[10:46:56    INFO]  - Found 70 MLM trees to merge, but have maxTreesMerge = 50 -> Will merge in 2 sub-steps
+[10:46:56    INFO]  - Now in merging loop 1/2
+[10:47:00    INFO]  - starting ANNZ::mergeTreeFriends() ... 
+[10:47:01    INFO]  - Now in merging loop 2/2
+[10:47:05    INFO]  - starting ANNZ::mergeTreeFriends() ... 
+[10:47:06    INFO]  - Now in final merging of all sub-steps ...
+[10:47:06    INFO]  - starting ANNZ::mergeTreeFriends() ... 
+[10:47:07    INFO]  - starting ANNZ::verifyIndicesMLM(ANNZ_tree_errKNN , ./output/SPEC_advanced20/regres/train/postTrain/ANNZ_tree_errKNN_00001.root) ... 
+[10:47:09    INFO]  - Saving file ./output/SPEC_advanced20/regres/train//postTrain/savePostTrainOpt.txt to log the creation time of the trees ...
+[10:47:10    INFO]  - There was need to regenerate the merged result-trees. Will validate that all is good now ...
+[10:47:11    INFO]  - Found all requred post-train root files -> Getting from file ./output/SPEC_advanced20/regres/train//postTrain/savePostTrainOpt.txt the creation time of the merged trees and comparing to the creationg time of source result-trees ...
+[10:47:11    INFO]  - No new MLMs found ... no need to regenerate the merged trees.
+[10:47:11    INFO]  - ending makeTreeRegClsAllMLM() ... 
+[10:47:11    INFO]  - starting ANNZ::optimReg() ... 
+[10:47:15    INFO]  - starting ANNZ::mergeTreeFriends() ... 
+[10:47:17    INFO]  - starting ANNZ::verifyIndicesMLM(ANNZ_tree_train , ./output/SPEC_advanced20/regres/optim/train/ANNZ_tree_train_00000.root) ... 
+[10:47:18    INFO]  - starting ANNZ::fillColosureV() ... 
+[10:47:19    INFO]  ---------------------------------------------------------------------------------- 
+[10:47:19    INFO]  - Got the following average properties: 
+[10:47:19    INFO]  --------------------------------------- 
+[10:47:19    INFO]  - type/name,<bias>,<sig68>,<fracSig68_2,3>:  BDT/ANNZ_0 	 0.0125829 	 0.0444841 	 0.0887939
+[10:47:19    INFO]  - type/name,<bias>,<sig68>,<fracSig68_2,3>:  BDT/ANNZ_1 	 0.0101494 	 0.0479749 	 0.0887672
+[10:47:19    INFO]  - type/name,<bias>,<sig68>,<fracSig68_2,3>:  BDT/ANNZ_2 	 0.00850913 	 0.0582115 	 0.0877078
+[10:47:19    INFO]  - type/name,<bias>,<sig68>,<fracSig68_2,3>:  BDT/ANNZ_3 	 0.00991628 	 0.0474844 	 0.0915687
+[10:47:19    INFO]  - type/name,<bias>,<sig68>,<fracSig68_2,3>:  BDT/ANNZ_4 	 0.00373329 	 0.0652097 	 0.089078
+[10:47:19    INFO]  - type/name,<bias>,<sig68>,<fracSig68_2,3>:  BDT/ANNZ_5 	 0.00415971 	 0.0649221 	 0.0909977
+[10:47:19    INFO]  - type/name,<bias>,<sig68>,<fracSig68_2,3>:  BDT/ANNZ_6 	 0.00386827 	 0.0659657 	 0.0879592
+[10:47:19    INFO]  - type/name,<bias>,<sig68>,<fracSig68_2,3>:  BDT/ANNZ_7 	 0.0101263 	 0.0476264 	 0.089791
+[10:47:19    INFO]  - type/name,<bias>,<sig68>,<fracSig68_2,3>:  BDT/ANNZ_8 	 0.0105693 	 0.0476108 	 0.0874953
+[10:47:19    INFO]  - type/name,<bias>,<sig68>,<fracSig68_2,3>:  BDT/ANNZ_9 	 0.00960986 	 0.0476186 	 0.090958
+[10:47:19    INFO]  - type/name,<bias>,<sig68>,<fracSig68_2,3>:  BDT/ANNZ_10 	 0.0129551 	 0.0444407 	 0.0868397
+[10:47:19    INFO]  - type/name,<bias>,<sig68>,<fracSig68_2,3>:  BDT/ANNZ_11 	 0.00378407 	 0.065198 	 0.0894403
+[10:47:20    INFO]  - type/name,<bias>,<sig68>,<fracSig68_2,3>:  BDT/ANNZ_12 	 0.00431556 	 0.064938 	 0.0906638
+[10:47:20    INFO]  - type/name,<bias>,<sig68>,<fracSig68_2,3>:  BDT/ANNZ_13 	 0.00863458 	 0.0581208 	 0.0875142
+[10:47:20    INFO]  - type/name,<bias>,<sig68>,<fracSig68_2,3>:  BDT/ANNZ_14 	 0.0079748 	 0.0436992 	 0.0501354
+[10:47:20    INFO]  - type/name,<bias>,<sig68>,<fracSig68_2,3>:  BDT/ANNZ_15 	 0.00833885 	 0.0442385 	 0.0496322
+[10:47:20    INFO]  - type/name,<bias>,<sig68>,<fracSig68_2,3>:  BDT/ANNZ_16 	 0.00386827 	 0.0659657 	 0.0879592
+[10:47:20    INFO]  - type/name,<bias>,<sig68>,<fracSig68_2,3>:  BDT/ANNZ_17 	 0.00390694 	 0.0653536 	 0.08954
+[10:47:20    INFO]  - type/name,<bias>,<sig68>,<fracSig68_2,3>:  BDT/ANNZ_18 	 0.00405441 	 0.0653195 	 0.0896689
+[10:47:20    INFO]  - type/name,<bias>,<sig68>,<fracSig68_2,3>:  BDT/ANNZ_19 	 0.0125277 	 0.0441101 	 0.088052
+[10:47:20    INFO]  - type/name,<bias>,<sig68>,<fracSig68_2,3>:  BDT/ANNZ_20 	 0.00794336 	 0.0449753 	 0.0490106
+[10:47:20    INFO]  - type/name,<bias>,<sig68>,<fracSig68_2,3>:  BDT/ANNZ_21 	 0.00398813 	 0.0604321 	 0.0896108
+[10:47:20    INFO]  - type/name,<bias>,<sig68>,<fracSig68_2,3>:  BDT/ANNZ_22 	 0.00701325 	 0.042518 	 0.0510653
+[10:47:20    INFO]  - type/name,<bias>,<sig68>,<fracSig68_2,3>:  BDT/ANNZ_23 	 0.0106664 	 0.0486583 	 0.0856072
+[10:47:20    INFO]  - type/name,<bias>,<sig68>,<fracSig68_2,3>:  BDT/ANNZ_24 	 0.0074422 	 0.0434979 	 0.046437
+[10:47:20    INFO]  - type/name,<bias>,<sig68>,<fracSig68_2,3>:  BDT/ANNZ_25 	 0.00757973 	 0.0425006 	 0.0497928
+[10:47:20    INFO]  - type/name,<bias>,<sig68>,<fracSig68_2,3>:  BDT/ANNZ_26 	 0.00805273 	 0.0448593 	 0.0497951
+[10:47:20    INFO]  - type/name,<bias>,<sig68>,<fracSig68_2,3>:  BDT/ANNZ_27 	 0.00775766 	 0.0426845 	 0.0506324
+[10:47:20    INFO]  - type/name,<bias>,<sig68>,<fracSig68_2,3>:  BDT/ANNZ_28 	 0.00443134 	 0.0649472 	 0.0908193
+[10:47:20    INFO]  - type/name,<bias>,<sig68>,<fracSig68_2,3>:  BDT/ANNZ_29 	 0.00707621 	 0.043828 	 0.0489071
+[10:47:20    INFO]  - type/name,<bias>,<sig68>,<fracSig68_2,3>:  BDT/ANNZ_30 	 0.0125727 	 0.0443784 	 0.0875034
+[10:47:20    INFO]  - type/name,<bias>,<sig68>,<fracSig68_2,3>:  BDT/ANNZ_31 	 0.00376437 	 0.0652652 	 0.0892789
+[10:47:20    INFO]  - type/name,<bias>,<sig68>,<fracSig68_2,3>:  BDT/ANNZ_32 	 0.0127131 	 0.0442046 	 0.0857751
+[10:47:20    INFO]  - type/name,<bias>,<sig68>,<fracSig68_2,3>:  BDT/ANNZ_33 	 0.00748895 	 0.0436342 	 0.0464191
+[10:47:20    INFO]  - type/name,<bias>,<sig68>,<fracSig68_2,3>:  BDT/ANNZ_34 	 0.0125829 	 0.0444841 	 0.0887939
+[10:47:20    INFO]  - type/name,<bias>,<sig68>,<fracSig68_2,3>:  BDT/ANNZ_35 	 0.00876835 	 0.0581446 	 0.0877968
+[10:47:20    INFO]  - type/name,<bias>,<sig68>,<fracSig68_2,3>:  BDT/ANNZ_36 	 0.0134633 	 0.044689 	 0.0847215
+[10:47:20    INFO]  - type/name,<bias>,<sig68>,<fracSig68_2,3>:  BDT/ANNZ_37 	 0.00780705 	 0.0432817 	 0.0472098
+[10:47:20    INFO]  - type/name,<bias>,<sig68>,<fracSig68_2,3>:  BDT/ANNZ_38 	 0.00863761 	 0.0580908 	 0.0878597
+[10:47:20    INFO]  - type/name,<bias>,<sig68>,<fracSig68_2,3>:  BDT/ANNZ_39 	 0.0127918 	 0.0446281 	 0.0861426
+[10:47:20    INFO]  - type/name,<bias>,<sig68>,<fracSig68_2,3>:  BDT/ANNZ_40 	 0.0110123 	 0.0474486 	 0.0878487
+[10:47:20    INFO]  - type/name,<bias>,<sig68>,<fracSig68_2,3>:  BDT/ANNZ_41 	 0.0127918 	 0.0446281 	 0.0861426
+[10:47:20    INFO]  - type/name,<bias>,<sig68>,<fracSig68_2,3>:  BDT/ANNZ_42 	 0.0103078 	 0.047124 	 0.0873585
+[10:47:20    INFO]  - type/name,<bias>,<sig68>,<fracSig68_2,3>:  BDT/ANNZ_43 	 0.00880339 	 0.0573139 	 0.0892906
+[10:47:20    INFO]  - type/name,<bias>,<sig68>,<fracSig68_2,3>:  BDT/ANNZ_44 	 0.00696094 	 0.0440171 	 0.0463639
+[10:47:20    INFO]  - type/name,<bias>,<sig68>,<fracSig68_2,3>:  BDT/ANNZ_45 	 0.0126289 	 0.045191 	 0.0848214
+[10:47:20    INFO]  - type/name,<bias>,<sig68>,<fracSig68_2,3>:  BDT/ANNZ_46 	 0.0105621 	 0.0470787 	 0.088823
+[10:47:20    INFO]  - type/name,<bias>,<sig68>,<fracSig68_2,3>:  BDT/ANNZ_47 	 0.00858292 	 0.0444061 	 0.0494217
+[10:47:20    INFO]  - type/name,<bias>,<sig68>,<fracSig68_2,3>:  BDT/ANNZ_48 	 0.00858292 	 0.0444061 	 0.0494217
+[10:47:20    INFO]  - type/name,<bias>,<sig68>,<fracSig68_2,3>:  BDT/ANNZ_49 	 0.0131393 	 0.0445211 	 0.0853779
+[10:47:20    INFO]  - type/name,<bias>,<sig68>,<fracSig68_2,3>:  BDT/ANNZ_50 	 0.00873628 	 0.0581295 	 0.0878828
+[10:47:20    INFO]  - type/name,<bias>,<sig68>,<fracSig68_2,3>:  BDT/ANNZ_51 	 0.0103164 	 0.0472705 	 0.0898398
+[10:47:20    INFO]  - type/name,<bias>,<sig68>,<fracSig68_2,3>:  BDT/ANNZ_52 	 0.0105621 	 0.0470787 	 0.088823
+[10:47:20    INFO]  - type/name,<bias>,<sig68>,<fracSig68_2,3>:  BDT/ANNZ_53 	 0.0120356 	 0.0443963 	 0.087503
+[10:47:20    INFO]  - type/name,<bias>,<sig68>,<fracSig68_2,3>:  BDT/ANNZ_54 	 0.0085124 	 0.0581499 	 0.0876863
+[10:47:20    INFO]  - type/name,<bias>,<sig68>,<fracSig68_2,3>:  BDT/ANNZ_55 	 0.00874043 	 0.0581468 	 0.0879276
+[10:47:20    INFO]  - type/name,<bias>,<sig68>,<fracSig68_2,3>:  BDT/ANNZ_56 	 0.00754484 	 0.0426833 	 0.0503256
+[10:47:20    INFO]  - type/name,<bias>,<sig68>,<fracSig68_2,3>:  BDT/ANNZ_57 	 0.0129261 	 0.0446637 	 0.0875206
+[10:47:20    INFO]  - type/name,<bias>,<sig68>,<fracSig68_2,3>:  BDT/ANNZ_58 	 0.00408478 	 0.0653234 	 0.0896684
+[10:47:20    INFO]  - type/name,<bias>,<sig68>,<fracSig68_2,3>:  BDT/ANNZ_59 	 0.0128733 	 0.043984 	 0.0862843
+[10:47:20    INFO]  - type/name,<bias>,<sig68>,<fracSig68_2,3>:  BDT/ANNZ_60 	 0.0120356 	 0.0443963 	 0.087503
+[10:47:20    INFO]  - type/name,<bias>,<sig68>,<fracSig68_2,3>:  BDT/ANNZ_61 	 0.00996491 	 0.0474593 	 0.0899667
+[10:47:20    INFO]  - type/name,<bias>,<sig68>,<fracSig68_2,3>:  BDT/ANNZ_62 	 0.0100878 	 0.0485931 	 0.0856065
+[10:47:20    INFO]  - type/name,<bias>,<sig68>,<fracSig68_2,3>:  BDT/ANNZ_63 	 0.0130525 	 0.044052 	 0.0864928
+[10:47:20    INFO]  - type/name,<bias>,<sig68>,<fracSig68_2,3>:  BDT/ANNZ_64 	 0.00377149 	 0.0605581 	 0.0899017
+[10:47:20    INFO]  - type/name,<bias>,<sig68>,<fracSig68_2,3>:  BDT/ANNZ_65 	 0.00855204 	 0.0580549 	 0.087616
+[10:47:20    INFO]  - type/name,<bias>,<sig68>,<fracSig68_2,3>:  BDT/ANNZ_66 	 0.00873543 	 0.058222 	 0.0877776
+[10:47:20    INFO]  - type/name,<bias>,<sig68>,<fracSig68_2,3>:  BDT/ANNZ_67 	 0.00408478 	 0.0653234 	 0.0896684
+[10:47:20    INFO]  - type/name,<bias>,<sig68>,<fracSig68_2,3>:  BDT/ANNZ_68 	 0.0105951 	 0.0477279 	 0.087282
+[10:47:20    INFO]  - type/name,<bias>,<sig68>,<fracSig68_2,3>:  BDT/ANNZ_69 	 0.010323 	 0.0482646 	 0.0866689
+[10:47:20    INFO]  ------------------------------------------------------------------------------------------------- 
+[10:47:20    INFO]  - starting ANNZ::getBestANNZ(optimCondReg="sig68") ... 
+[10:47:20    INFO]  - Will optimize based on bias and sig68 only (priority on sig68)
+[10:47:20    INFO]  - Now trying to find best methods with a limit of 10% of the [sig68] dist, and 20% of the other(s) - iteration 0 ...
+[10:47:20    INFO]  - Now trying to find best methods with a limit of 12.5% of the [sig68] dist, and 22.5% of the other(s) - iteration 1 ...
+[10:47:20    INFO]  - Found 1 "best" methods (min-threshold was 1) from the bottom 12.5% of the [sig68] dist.
+[10:47:20    INFO]  - The "best" MLM is: ANNZ_22
+[10:47:20    INFO]  - starting ANNZ::getRndMethodBestPDF() ... 
+[10:47:20    INFO]  - ANNZ_1 has sigma68 = 0.0479749 which is above threshold (0.045) -> it will be rejected from the PDF ...
+[10:47:20    INFO]  - ANNZ_2 has sigma68 = 0.0582115 which is above threshold (0.045) -> it will be rejected from the PDF ...
+[10:47:20    INFO]  - ANNZ_3 has sigma68 = 0.0474844 which is above threshold (0.045) -> it will be rejected from the PDF ...
+[10:47:20    INFO]  - ANNZ_4 has sigma68 = 0.0652097 which is above threshold (0.045) -> it will be rejected from the PDF ...
+[10:47:20    INFO]  - ANNZ_5 has sigma68 = 0.0649221 which is above threshold (0.045) -> it will be rejected from the PDF ...
+[10:47:20    INFO]  - ANNZ_6 has sigma68 = 0.0659657 which is above threshold (0.045) -> it will be rejected from the PDF ...
+[10:47:20    INFO]  - ANNZ_7 has sigma68 = 0.0476264 which is above threshold (0.045) -> it will be rejected from the PDF ...
+[10:47:20    INFO]  - ANNZ_8 has sigma68 = 0.0476108 which is above threshold (0.045) -> it will be rejected from the PDF ...
+[10:47:20    INFO]  - ANNZ_9 has sigma68 = 0.0476186 which is above threshold (0.045) -> it will be rejected from the PDF ...
+[10:47:20    INFO]  - ANNZ_11 has sigma68 = 0.065198 which is above threshold (0.045) -> it will be rejected from the PDF ...
+[10:47:20    INFO]  - ANNZ_12 has sigma68 = 0.064938 which is above threshold (0.045) -> it will be rejected from the PDF ...
+[10:47:20    INFO]  - ANNZ_13 has sigma68 = 0.0581208 which is above threshold (0.045) -> it will be rejected from the PDF ...
+[10:47:20    INFO]  - ANNZ_16 has sigma68 = 0.0659657 which is above threshold (0.045) -> it will be rejected from the PDF ...
+[10:47:20    INFO]  - ANNZ_17 has sigma68 = 0.0653536 which is above threshold (0.045) -> it will be rejected from the PDF ...
+[10:47:20    INFO]  - ANNZ_18 has sigma68 = 0.0653195 which is above threshold (0.045) -> it will be rejected from the PDF ...
+[10:47:20    INFO]  - ANNZ_21 has sigma68 = 0.0604321 which is above threshold (0.045) -> it will be rejected from the PDF ...
+[10:47:20    INFO]  - ANNZ_23 has sigma68 = 0.0486583 which is above threshold (0.045) -> it will be rejected from the PDF ...
+[10:47:20    INFO]  - ANNZ_28 has sigma68 = 0.0649472 which is above threshold (0.045) -> it will be rejected from the PDF ...
+[10:47:20    INFO]  - ANNZ_31 has sigma68 = 0.0652652 which is above threshold (0.045) -> it will be rejected from the PDF ...
+[10:47:20    INFO]  - ANNZ_35 has sigma68 = 0.0581446 which is above threshold (0.045) -> it will be rejected from the PDF ...
+[10:47:20    INFO]  - ANNZ_38 has sigma68 = 0.0580908 which is above threshold (0.045) -> it will be rejected from the PDF ...
+[10:47:20    INFO]  - ANNZ_40 has sigma68 = 0.0474486 which is above threshold (0.045) -> it will be rejected from the PDF ...
+[10:47:20    INFO]  - ANNZ_42 has sigma68 = 0.047124 which is above threshold (0.045) -> it will be rejected from the PDF ...
+[10:47:20    INFO]  - ANNZ_43 has sigma68 = 0.0573139 which is above threshold (0.045) -> it will be rejected from the PDF ...
+[10:47:20    INFO]  - ANNZ_45 has sigma68 = 0.045191 which is above threshold (0.045) -> it will be rejected from the PDF ...
+[10:47:20    INFO]  - ANNZ_46 has sigma68 = 0.0470787 which is above threshold (0.045) -> it will be rejected from the PDF ...
+[10:47:20    INFO]  - ANNZ_50 has sigma68 = 0.0581295 which is above threshold (0.045) -> it will be rejected from the PDF ...
+[10:47:20    INFO]  - ANNZ_51 has sigma68 = 0.0472705 which is above threshold (0.045) -> it will be rejected from the PDF ...
+[10:47:20    INFO]  - ANNZ_52 has sigma68 = 0.0470787 which is above threshold (0.045) -> it will be rejected from the PDF ...
+[10:47:20    INFO]  - ANNZ_54 has sigma68 = 0.0581499 which is above threshold (0.045) -> it will be rejected from the PDF ...
+[10:47:20    INFO]  - ANNZ_55 has sigma68 = 0.0581468 which is above threshold (0.045) -> it will be rejected from the PDF ...
+[10:47:20    INFO]  - ANNZ_58 has sigma68 = 0.0653234 which is above threshold (0.045) -> it will be rejected from the PDF ...
+[10:47:20    INFO]  - ANNZ_61 has sigma68 = 0.0474593 which is above threshold (0.045) -> it will be rejected from the PDF ...
+[10:47:20    INFO]  - ANNZ_62 has sigma68 = 0.0485931 which is above threshold (0.045) -> it will be rejected from the PDF ...
+[10:47:20    INFO]  - ANNZ_64 has sigma68 = 0.0605581 which is above threshold (0.045) -> it will be rejected from the PDF ...
+[10:47:20    INFO]  - ANNZ_65 has sigma68 = 0.0580549 which is above threshold (0.045) -> it will be rejected from the PDF ...
+[10:47:20    INFO]  - ANNZ_66 has sigma68 = 0.058222 which is above threshold (0.045) -> it will be rejected from the PDF ...
+[10:47:20    INFO]  - ANNZ_67 has sigma68 = 0.0653234 which is above threshold (0.045) -> it will be rejected from the PDF ...
+[10:47:20    INFO]  - ANNZ_68 has sigma68 = 0.0477279 which is above threshold (0.045) -> it will be rejected from the PDF ...
+[10:47:20    INFO]  - ANNZ_69 has sigma68 = 0.0482646 which is above threshold (0.045) -> it will be rejected from the PDF ...
+[10:47:20    INFO]  - initial PDF weights: ANNZ_22:0.087 ANNZ_44:0.083 ANNZ_29:0.079 ANNZ_25:0.075 ANNZ_56:0.071 ANNZ_24:0.067 ANNZ_27:0.063 ANNZ_33:0.059 ANNZ_37:0.055 ANNZ_14:0.051 ANNZ_15:0.047 ANNZ_47:0.043 ANNZ_48:0.040 ANNZ_60:0.036 ANNZ_53:0.032 ANNZ_19:0.028 ANNZ_30:0.024 ANNZ_34:0.020 ANNZ_32:0.016 ANNZ_59:0.012 ANNZ_10:0.008 ANNZ_63:0.004 
+[10:47:20    INFO]  - will loop on the input trees ...
+[10:47:21    INFO]  - NEW:  0 - min-param best/prev/now: 1.79769e+308 / 1.79769e+308 / 2.46547e-01
+[10:47:21    INFO]  - nTry: 1 - min-param best/prev/now: 2.46547e-01 / 2.46547e-01 / 2.47139e-01
+[10:47:21    INFO]  - nTry: 2 - min-param best/prev/now: 2.46547e-01 / 2.47139e-01 / 2.49627e-01
+[10:47:22    INFO]  - nTry: 3 - min-param best/prev/now: 2.46547e-01 / 2.47139e-01 / 2.50731e-01
+[10:47:22    INFO]  - nTry: 4 - min-param best/prev/now: 2.46547e-01 / 2.47139e-01 / 2.51390e-01
+[10:47:22    INFO]  - nTry: 5 - min-param best/prev/now: 2.46547e-01 / 2.47139e-01 / 2.51595e-01
+[10:47:22    INFO]  - nTry: 6 - min-param best/prev/now: 2.46547e-01 / 2.47139e-01 / 2.51874e-01
+[10:47:22    INFO]  - nTry: 7 - min-param best/prev/now: 2.46547e-01 / 2.47139e-01 / 2.52107e-01
+[10:47:22    INFO]  - nTry: 8 - min-param best/prev/now: 2.46547e-01 / 2.47139e-01 / 2.51755e-01
+[10:47:23    INFO]  - nTry: 9 - min-param best/prev/now: 2.46547e-01 / 2.47139e-01 / 2.51693e-01
+[10:47:23    INFO]  - nTry: 10 - min-param best/prev/now: 2.46547e-01 / 2.47139e-01 / 2.51969e-01
+[10:47:25    INFO]  - nTry: 20 - min-param best/prev/now: 2.46547e-01 / 2.52911e-01 / 2.53340e-01
+[10:47:26    INFO]  - nTry: 30 - min-param best/prev/now: 2.46547e-01 / 2.54556e-01 / 2.54742e-01
+[10:47:28    INFO]  - nTry: 40 - min-param best/prev/now: 2.46547e-01 / 2.55031e-01 / 2.55317e-01
+[10:47:30    INFO]  - nTry: 50 - min-param best/prev/now: 2.46547e-01 / 2.55365e-01 / 2.55753e-01
+[10:47:31    INFO]  - nTry: 60 - min-param best/prev/now: 2.46547e-01 / 2.55365e-01 / 2.56027e-01
+[10:47:33    INFO]  - nTry: 70 - min-param best/prev/now: 2.46547e-01 / 2.56221e-01 / 2.56218e-01
+[10:47:35    INFO]  - nTry: 80 - min-param best/prev/now: 2.46547e-01 / 2.56239e-01 / 2.56236e-01
+[10:47:37    INFO]  - nTry: 90 - min-param best/prev/now: 2.46547e-01 / 2.56336e-01 / 2.56393e-01
+[10:47:38    INFO]  - nTry: 100 - min-param best/prev/now: 2.46547e-01 / 2.56275e-01 / 2.56246e-01
+[10:47:42    INFO]  - nTry: 120 - min-param best/prev/now: 2.46547e-01 / 2.56249e-01 / 2.56279e-01
+[10:47:45    INFO]  - nTry: 140 - min-param best/prev/now: 2.46547e-01 / 2.56214e-01 / 2.56300e-01
+[10:47:47    INFO]  - nTry: 150 - min-param best/prev/now: 2.46547e-01 / 2.56214e-01 / 2.56396e-01
+[10:47:49    INFO]  - nTry: 160 - min-param best/prev/now: 2.46547e-01 / 2.56370e-01 / 2.56386e-01
+[10:47:52    INFO]  - nTry: 180 - min-param best/prev/now: 2.46547e-01 / 2.56201e-01 / 2.56196e-01
+[10:47:56    INFO]  - nTry: 200 - min-param best/prev/now: 2.46547e-01 / 2.56172e-01 / 2.56162e-01
+[10:47:59    INFO]  - nTry: 220 - min-param best/prev/now: 2.46547e-01 / 2.56196e-01 / 2.56232e-01
+[10:48:03    INFO]  - nTry: 240 - min-param best/prev/now: 2.46547e-01 / 2.56233e-01 / 2.56241e-01
+[10:48:04    INFO]  - nTry: 250 - min-param best/prev/now: 2.46547e-01 / 2.56245e-01 / 2.56243e-01
+[10:48:04    INFO]  - finished PDF optimization! - final minimization parameter: 2.46547e-01 , PDF weights: ANNZ_22:0.087 ANNZ_44:0.083 ANNZ_29:0.079 ANNZ_25:0.075 ANNZ_56:0.071 ANNZ_24:0.067 ANNZ_27:0.063 ANNZ_33:0.059 ANNZ_37:0.055 ANNZ_14:0.051 ANNZ_15:0.047 ANNZ_47:0.043 ANNZ_48:0.040 ANNZ_60:0.036 ANNZ_53:0.032 ANNZ_19:0.028 ANNZ_30:0.024 ANNZ_34:0.020 ANNZ_32:0.016 ANNZ_59:0.012 ANNZ_10:0.008 ANNZ_63:0.004 
+[10:48:04    INFO]  - will derive the bias correction for the pdf ... 
+[10:48:05    INFO]  - Derived the following PDF(0) weights: ANNZ_0:0.000000, ANNZ_1:0.000000, ANNZ_2:0.000000, ANNZ_3:0.000000, ANNZ_4:0.000000, ANNZ_5:0.000000, ANNZ_6:0.000000, ANNZ_7:0.000000, ANNZ_8:0.000000, ANNZ_9:0.000000, ANNZ_10:0.007905, ANNZ_11:0.000000, ANNZ_12:0.000000, ANNZ_13:0.000000, ANNZ_14:0.051383, ANNZ_15:0.047431, ANNZ_16:0.000000, ANNZ_17:0.000000, ANNZ_18:0.000000, ANNZ_19:0.027668, ANNZ_20:0.000000, ANNZ_21:0.000000, ANNZ_22:0.086957, ANNZ_23:0.000000, ANNZ_24:0.067194, ANNZ_25:0.075099, ANNZ_26:0.000000, ANNZ_27:0.063241, ANNZ_28:0.000000, ANNZ_29:0.079051, ANNZ_30:0.023715, ANNZ_31:0.000000, ANNZ_32:0.015810, ANNZ_33:0.059289, ANNZ_34:0.019763, ANNZ_35:0.000000, ANNZ_36:0.000000, ANNZ_37:0.055336, ANNZ_38:0.000000, ANNZ_39:0.000000, ANNZ_40:0.000000, ANNZ_41:0.000000, ANNZ_42:0.000000, ANNZ_43:0.000000, ANNZ_44:0.083004, ANNZ_45:0.000000, ANNZ_46:0.000000, ANNZ_47:0.043478, ANNZ_48:0.039526, ANNZ_49:0.000000, ANNZ_50:0.000000, ANNZ_51:0.000000, ANNZ_52:0.000000, ANNZ_53:0.031621, ANNZ_54:0.000000, ANNZ_55:0.000000, ANNZ_56:0.071146, ANNZ_57:0.000000, ANNZ_58:0.000000, ANNZ_59:0.011858, ANNZ_60:0.035573, ANNZ_61:0.000000, ANNZ_62:0.000000, ANNZ_63:0.003953, ANNZ_64:0.000000, ANNZ_65:0.000000, ANNZ_66:0.000000, ANNZ_67:0.000000, ANNZ_68:0.000000, ANNZ_69:0.000000, 
+[10:48:05    INFO]  - Saving optimization results in ./output/SPEC_advanced20/regres/optim/saveOptimOpt.txt ...
+[10:48:09    INFO]  - Saving bias-correction results in ./output/SPEC_advanced20/regres/optim/saveOptimObj.root ...
+[10:48:14    INFO]  - starting ANNZ::mergeTreeFriends() ... 
+[10:48:14    INFO]  - starting ANNZ::verifyIndicesMLM(ANNZ_tree_valid , ./output/SPEC_advanced20/regres/optim/valid/ANNZ_tree_valid_00000.root) ... 
+[10:48:19    INFO]  - starting ANNZ::doEvalReg() ... 
+[10:48:19    INFO]  - Will gen. input-parameter errors for: ANNZ_0,ANNZ_1,ANNZ_2,ANNZ_3,ANNZ_4,ANNZ_5,ANNZ_6,ANNZ_7,ANNZ_8,ANNZ_9,ANNZ_10,ANNZ_11,ANNZ_12,ANNZ_13,ANNZ_14,ANNZ_15,ANNZ_16,ANNZ_17,ANNZ_18,ANNZ_19,ANNZ_20,ANNZ_21,ANNZ_22,ANNZ_23,ANNZ_24,ANNZ_25,ANNZ_26,ANNZ_27,ANNZ_28,ANNZ_29,ANNZ_30,ANNZ_31,ANNZ_32,ANNZ_33,ANNZ_34,ANNZ_35,ANNZ_36,ANNZ_37,ANNZ_38,ANNZ_39,ANNZ_40,ANNZ_41,ANNZ_42,ANNZ_43,ANNZ_44,ANNZ_45,ANNZ_46,ANNZ_47,ANNZ_48,ANNZ_49,ANNZ_50,ANNZ_51,ANNZ_52,ANNZ_53,ANNZ_54,ANNZ_55,ANNZ_56,ANNZ_57,ANNZ_58,ANNZ_59,ANNZ_60,ANNZ_61,ANNZ_62,ANNZ_63,ANNZ_64,ANNZ_65,ANNZ_66,ANNZ_67,ANNZ_68,ANNZ_69,
+[10:48:19    INFO]  - Reading bias-correction results from ./output/SPEC_advanced20/regres/optim/saveOptimObj.root ...
+[10:48:19    INFO]  - Getting optimization results from ./output/SPEC_advanced20/regres/optim/saveOptimOpt.txt ...
+[10:48:19    INFO]  - creating final MLM and PDFs trees from input MLM trees ...
+[10:48:20    INFO]  -- COUNTERS ------------------------------------------------------------------------------
+[10:48:20    INFO]  -- ANNZ_tree_valid ................................. 2232  nObj
+[10:48:20    INFO]  -----------------------------------------------------------------------------------------------------------
+[10:48:20    INFO]  - starting storeTreeToAscii() ... 
+[10:48:20    INFO]  - will write to file the following branches: ref_id,zb,pz_width,odds,qz,production_id,paudm_id,ra,dec,zspec,conf,ANNZ_best,ANNZ_best_wgt,ANNZ_best_err,ANNZ_MLM_avg_0,ANNZ_MLM_avg_0_err,ANNZ_MLM_avg_0_wgt,ANNZ_PDF_avg_0,ANNZ_PDF_avg_0_err,ANNZ_PDF_avg_0_wgt,ANNZ_PDF_0_0,ANNZ_PDF_0_1,ANNZ_PDF_0_2,ANNZ_PDF_0_3,ANNZ_PDF_0_4,ANNZ_PDF_0_5,ANNZ_PDF_0_6,ANNZ_PDF_0_7,ANNZ_PDF_0_8,ANNZ_PDF_0_9,ANNZ_PDF_0_10,ANNZ_PDF_0_11,ANNZ_PDF_0_12,ANNZ_PDF_0_13,ANNZ_PDF_0_14,ANNZ_PDF_0_15,ANNZ_PDF_0_16,ANNZ_PDF_0_17,ANNZ_PDF_0_18,ANNZ_PDF_0_19,ANNZ_PDF_0_20,ANNZ_PDF_0_21,ANNZ_PDF_0_22,ANNZ_PDF_0_23,ANNZ_PDF_0_24,ANNZ_PDF_0_25,ANNZ_PDF_0_26,ANNZ_PDF_0_27,ANNZ_PDF_0_28,ANNZ_PDF_0_29,ANNZ_PDF_0_30,ANNZ_PDF_0_31,ANNZ_PDF_0_32,ANNZ_PDF_0_33,ANNZ_PDF_0_34,ANNZ_PDF_0_35,ANNZ_PDF_0_36,ANNZ_PDF_0_37,ANNZ_PDF_0_38,ANNZ_PDF_0_39,ANNZ_PDF_0_40,ANNZ_PDF_0_41,ANNZ_PDF_0_42,ANNZ_PDF_0_43,ANNZ_PDF_0_44,ANNZ_PDF_0_45,ANNZ_PDF_0_46,ANNZ_PDF_0_47,ANNZ_PDF_0_48,ANNZ_PDF_0_49,ANNZ_PDF_0_50,ANNZ_PDF_0_51,ANNZ_PDF_0_52,ANNZ_PDF_0_53,ANNZ_PDF_0_54,ANNZ_PDF_0_55,ANNZ_PDF_0_56,ANNZ_PDF_0_57,ANNZ_PDF_0_58,ANNZ_PDF_0_59,ANNZ_PDF_0_60,ANNZ_PDF_0_61,ANNZ_PDF_0_62,ANNZ_PDF_0_63,ANNZ_PDF_0_64,ANNZ_PDF_0_65,ANNZ_PDF_0_66,ANNZ_PDF_0_67,ANNZ_PDF_0_68,ANNZ_PDF_0_69,ANNZ_PDF_0_70,ANNZ_PDF_0_71,ANNZ_PDF_0_72,ANNZ_PDF_0_73,ANNZ_PDF_0_74,ANNZ_PDF_0_75,ANNZ_PDF_0_76,ANNZ_PDF_0_77,ANNZ_PDF_0_78,ANNZ_PDF_0_79,ANNZ_PDF_0_80,ANNZ_PDF_0_81,ANNZ_PDF_0_82,ANNZ_PDF_0_83,ANNZ_PDF_0_84,ANNZ_PDF_0_85,ANNZ_PDF_0_86,ANNZ_PDF_0_87,ANNZ_PDF_0_88,ANNZ_PDF_0_89,ANNZ_PDF_0_90,ANNZ_PDF_0_91,ANNZ_PDF_0_92,ANNZ_PDF_0_93,ANNZ_PDF_0_94,ANNZ_PDF_0_95,ANNZ_PDF_0_96,ANNZ_PDF_0_97,ANNZ_PDF_0_98,ANNZ_PDF_0_99,ANNZ_PDF_0_100,ANNZ_PDF_0_101,ANNZ_PDF_0_102,ANNZ_PDF_0_103,ANNZ_PDF_0_104,ANNZ_PDF_0_105,ANNZ_PDF_0_106,ANNZ_PDF_0_107,ANNZ_PDF_0_108,ANNZ_PDF_0_109,ANNZ_PDF_0_110,ANNZ_PDF_0_111,ANNZ_PDF_0_112,ANNZ_PDF_0_113,ANNZ_PDF_0_114,ANNZ_PDF_0_115,ANNZ_PDF_0_116,ANNZ_PDF_0_117,ANNZ_PDF_0_118,ANNZ_PDF_0_119,
+[10:48:20    INFO]  - Will parse  ANNZ_tree_randomReg(2232)... Now in ./output/SPEC_advanced20/regres/optim/eval/ANNZ_randomReg_0000.csv
+[10:48:20    INFO]  -- COUNTERS ------------------------------------------------------------------------------
+[10:48:20    INFO]  -- ANNZ_randomReg .................................. 2232  nObj
+[10:48:20    INFO]  -----------------------------------------------------------------------------------------------------------
+[10:48:20    INFO]  - starting ANNZ::doMetricPlots() ... 
+[10:48:20    INFO]  - Will use (1) MLMs from the input chain: ANNZ_best,
+[10:48:20    INFO]  - Will use (1) PDFs from the input chain: PDF_0,
+[10:48:29    INFO]  - Writing to plotting directory output/SPEC_advanced20/regres/optim/eval/plots/
+
+(10:48 INFO) [40;37;1m - 29/03/19 10:48:35 - finished running ANNZ ![0m
+(10:48 INFO) [34m - Found defined [0m[32mROOTSYS[0m[34m = "[0m[33m/home/andrew/ProjectInstalls/root[0m[34m". Setting glob.rootHome to match[0m
+(10:48 INFO) [34m - Will use [0m[32mROOTSYS[0m[34m = "[0m[33m/home/andrew/ProjectInstalls/root[0m[34m"[0m
+(10:48 INFO) [34m - Adding to [0m[32mLD_LIBRARY_PATH[0m[34m "[0m[33m/home/andrew/ProjectInstalls/root/lib/[0m[34m"[0m
+(10:48 INFO) [40;37;1m - 29/03/19 10:48:35 - starting ANNZ[0m
+(10:48 INFO) [33m - Will run /home/andrew/ProjectInstalls/ANNZ/lib/myANNZ with the following user-options: [0m
+(10:48 INFO)    [34mgeneralOptI[0m[31m=[0m'[32m-1[0m' , [34mtrainIndex[0m[31m=[0m'[32m-1[0m' , [34mdoSingleCls[0m[31m=[0m'[32mFalse[0m' , [34mmaxNobj[0m[31m=[0m'[32m0[0m' , [34mdoVerif[0m[31m=[0m'[32mFalse[0m' , [34mgeneralOptS[0m[31m=[0m'[32mNULL[0m' , [34mdoPlots[0m[31m=[0m'[32mTrue[0m' , [34mnErrKNN[0m[31m=[0m'[32m90[0m' , [34mdoTrain[0m[31m=[0m'[32mFalse[0m' , [34mdoInTrainFlag[0m[31m=[0m'[32mFalse[0m' , [34mnMLMs[0m[31m=[0m'[32m70[0m' , [34minDirName[0m[31m=[0m'[32mPAUS/[0m' , [34minitSeedRnd[0m[31m=[0m'[32m0[0m' , [34msampleFrac_errKNN[0m[31m=[0m'[32m1[0m' , [34mdoEval[0m[31m=[0m'[32mTrue[0m' , [34mdoOptim[0m[31m=[0m'[32mFalse[0m' , [34moutDirName[0m[31m=[0m'[32mSPEC_advanced20[0m' , [34maddOutputVars[0m[31m=[0m'[32mref_id;zb;pz_width;odds;qz;production_id;paudm_id;ra;dec;zspec;conf[0m' , [34mevalDirPostfix[0m[31m=[0m'[32mnFile1[0m' , [34mdoRandomCls[0m[31m=[0m'[32mFalse[0m' , [34minAsciiFiles[0m[31m=[0m'[32mANNz_data10c.csv[0m' , [34mmaxValZ[0m[31m=[0m'[32m1.2[0m' , [34misBatch[0m[31m=[0m'[32mTrue[0m' , [34mdoClassification[0m[31m=[0m'[32mFalse[0m' , [34mdoAsciiToFits[0m[31m=[0m'[32mFalse[0m' , [34minAsciiVars[0m[31m=[0m'[32mF:ref_id;F:zb;F:pz_width;F:odds;F:qz;F:production_id;F:paudm_id;F:ra;F:dec;F:zspec;F:conf;F:i_auto;F:umag;F:bmag;F:vmag;F:gmag;F:rmag;F:jmag;F:kmag;F:i_auto_err;F:umag_err;F:bmag_err;F:vmag_err;F:gmag_err;F:rmag_err;F:jmag_err;F:kmag_err;F:band0_flux;F:band1_flux;F:band2_flux;F:band3_flux;F:band4_flux;F:band5_flux;F:band6_flux;F:band7_flux;F:band8_flux;F:band9_flux;F:band10_flux;F:band11_flux;F:band12_flux;F:band13_flux;F:band14_flux;F:band15_flux;F:band16_flux;F:band17_flux;F:band18_flux;F:band19_flux;F:band20_flux;F:band21_flux;F:band22_flux;F:band23_flux;F:band24_flux;F:band25_flux;F:band26_flux;F:band27_flux;F:band28_flux;F:band29_flux;F:band30_flux;F:band31_flux;F:band32_flux;F:band33_flux;F:band34_flux;F:band35_flux;F:band36_flux;F:band37_flux;F:band38_flux;F:band39_flux;F:band0_flux_error;F:band1_flux_error;F:band2_flux_error;F:band3_flux_error;F:band4_flux_error;F:band5_flux_error;F:band6_flux_error;F:band7_flux_error;F:band8_flux_error;F:band9_flux_error;F:band10_flux_error;F:band11_flux_error;F:band12_flux_error;F:band13_flux_error;F:band14_flux_error;F:band15_flux_error;F:band16_flux_error;F:band17_flux_error;F:band18_flux_error;F:band19_flux_error;F:band20_flux_error;F:band21_flux_error;F:band22_flux_error;F:band23_flux_error;F:band24_flux_error;F:band25_flux_error;F:band26_flux_error;F:band27_flux_error;F:band28_flux_error;F:band29_flux_error;F:band30_flux_error;F:band31_flux_error;F:band32_flux_error;F:band33_flux_error;F:band34_flux_error;F:band35_flux_error;F:band36_flux_error;F:band37_flux_error;F:band38_flux_error;F:band39_flux_error[0m' , [34mdoFitsToAscii[0m[31m=[0m'[32mFalse[0m' , [34mdoRandomReg[0m[31m=[0m'[32mTrue[0m' , [34mnPDFbins[0m[31m=[0m'[32m120[0m' , [34mminValZ[0m[31m=[0m'[32m0.0[0m' , [34mdoGenInputTrees[0m[31m=[0m'[32mFalse[0m' , [34mmax_sigma68_PDF[0m[31m=[0m'[32m0.045[0m' , [34mdoSingleReg[0m[31m=[0m'[32mFalse[0m' , [34mdoRegression[0m[31m=[0m'[32mTrue[0m' , [34mMLMsToStore[0m[31m=[0m'[32m[0m' , [34mdoBinnedCls[0m[31m=[0m'[32mFalse[0m' , [34mprintPlotExtension[0m[31m=[0m'[32m.png[0m' , [34mzTrg[0m[31m=[0m'[32mzspec[0m' , [34mdoOnlyKnnErr[0m[31m=[0m'[32mFalse[0m' , [34mnPDFs[0m[31m=[0m'[32m1[0m' , 
+(10:48 INFO) 
+[10:48:35    INFO]  -----------------------------------------------------
+[10:48:35    INFO]  - Welcome to ANNZ v2.3.0 (using ROOT v6.14/06) -
+[10:48:35    INFO]  -----------------------------------------------------------------------------------------------------------
+[10:48:37    INFO]  - starting ANNZ::Init()  ... 
+[10:48:37    INFO]  - Will generate 1 PDFs ... 
+[10:49:17    INFO] --------------------------------------------------------
+[10:49:17    INFO]  - All ACCEPTED MLMs: ANNZ_0,ANNZ_1,ANNZ_2,ANNZ_3,ANNZ_4,ANNZ_5,ANNZ_6,ANNZ_7,ANNZ_8,ANNZ_9,ANNZ_10,ANNZ_11,ANNZ_12,ANNZ_13,ANNZ_14,ANNZ_15,ANNZ_16,ANNZ_17,ANNZ_18,ANNZ_19,ANNZ_20,ANNZ_21,ANNZ_22,ANNZ_23,ANNZ_24,ANNZ_25,ANNZ_26,ANNZ_27,ANNZ_28,ANNZ_29,ANNZ_30,ANNZ_31,ANNZ_32,ANNZ_33,ANNZ_34,ANNZ_35,ANNZ_36,ANNZ_37,ANNZ_38,ANNZ_39,ANNZ_40,ANNZ_41,ANNZ_42,ANNZ_43,ANNZ_44,ANNZ_45,ANNZ_46,ANNZ_47,ANNZ_48,ANNZ_49,ANNZ_50,ANNZ_51,ANNZ_52,ANNZ_53,ANNZ_54,ANNZ_55,ANNZ_56,ANNZ_57,ANNZ_58,ANNZ_59,ANNZ_60,ANNZ_61,ANNZ_62,ANNZ_63,ANNZ_64,ANNZ_65,ANNZ_66,ANNZ_67,ANNZ_68,ANNZ_69,
+[10:49:17    INFO]  - All REJECTED MLMs: 
+[10:49:17    INFO] ----------------------------------------------------------------------------------------------------------------
+[10:49:22    INFO]  - Saving run information in ./output/SPEC_advanced20/regres/eval_nFile1/saveOpt.txt ...
+[10:51:02    INFO]  - starting inputToFullTree(ANNz_data10c.csv) ... 
+[10:51:02    INFO]  - Found 2232 lines in file PAUS/ANNz_data10c.csv -> total so far = 2232 ... 
+[10:51:02    INFO]  - Now reading-in PAUS/ANNz_data10c.csv ... 
+[10:51:02    INFO]  -- COUNTERS ------------------------------------------------------------------------------
+[10:51:02    INFO]  -- ANNZ_tree_eval .................................. 2232  nLine
+[10:51:02    INFO]  -- ANNZ_tree_eval .................................. 2232  nObj
+[10:51:02    INFO]  -----------------------------------------------------------------------------------------------------------
+[10:51:02    INFO]  - starting ANNZ::Eval() ... 
+[10:51:02    INFO]  - starting ANNZ::doEvalReg() ... 
+[10:51:02    INFO]  - Will gen. input-parameter errors for: ANNZ_0,ANNZ_1,ANNZ_2,ANNZ_3,ANNZ_4,ANNZ_5,ANNZ_6,ANNZ_7,ANNZ_8,ANNZ_9,ANNZ_10,ANNZ_11,ANNZ_12,ANNZ_13,ANNZ_14,ANNZ_15,ANNZ_16,ANNZ_17,ANNZ_18,ANNZ_19,ANNZ_20,ANNZ_21,ANNZ_22,ANNZ_23,ANNZ_24,ANNZ_25,ANNZ_26,ANNZ_27,ANNZ_28,ANNZ_29,ANNZ_30,ANNZ_31,ANNZ_32,ANNZ_33,ANNZ_34,ANNZ_35,ANNZ_36,ANNZ_37,ANNZ_38,ANNZ_39,ANNZ_40,ANNZ_41,ANNZ_42,ANNZ_43,ANNZ_44,ANNZ_45,ANNZ_46,ANNZ_47,ANNZ_48,ANNZ_49,ANNZ_50,ANNZ_51,ANNZ_52,ANNZ_53,ANNZ_54,ANNZ_55,ANNZ_56,ANNZ_57,ANNZ_58,ANNZ_59,ANNZ_60,ANNZ_61,ANNZ_62,ANNZ_63,ANNZ_64,ANNZ_65,ANNZ_66,ANNZ_67,ANNZ_68,ANNZ_69,
+[10:51:02    INFO]  - Reading bias-correction results from ./output/SPEC_advanced20/regres/optim/saveOptimObj.root ...
+[10:51:02    INFO]  - Getting optimization results from ./output/SPEC_advanced20/regres/optim/saveOptimOpt.txt ...
+[10:51:02    INFO]  - creating MLM trees from input ...
+[10:51:02    INFO]  - nDivLoopNow(1/1) -> will use the following MLMs: ANNZ_10,ANNZ_14,ANNZ_15,ANNZ_19,ANNZ_22,ANNZ_24,ANNZ_25,ANNZ_27,ANNZ_29,ANNZ_30,ANNZ_32,ANNZ_33,ANNZ_34,ANNZ_37,ANNZ_44,ANNZ_47,ANNZ_48,ANNZ_53,ANNZ_56,ANNZ_59,ANNZ_60,ANNZ_63,
+[10:51:02    INFO]  - starting ANNZ::loadReaders() ... 
+[11:17:25    INFO]  -- COUNTERS ------------------------------------------------------------------------------
+[11:17:25    INFO]  -- ANNZ_tree_eval .................................. 2232  nObj
+[11:17:25    INFO]  -----------------------------------------------------------------------------------------------------------
+[11:17:25    INFO]  - creating final MLM and PDFs trees from input MLM trees ...
+[11:17:26    INFO]  -- COUNTERS ------------------------------------------------------------------------------
+[11:17:26    INFO]  -- ANNZ_tree_MLM_nDiv0 ............................. 2232  nObj
+[11:17:26    INFO]  -----------------------------------------------------------------------------------------------------------
+[11:17:26    INFO]  - starting storeTreeToAscii() ... 
+[11:17:26    INFO]  - will write to file the following branches: ref_id,zb,pz_width,odds,qz,production_id,paudm_id,ra,dec,zspec,conf,ANNZ_best,ANNZ_best_wgt,ANNZ_best_err,ANNZ_MLM_avg_0,ANNZ_MLM_avg_0_err,ANNZ_MLM_avg_0_wgt,ANNZ_PDF_avg_0,ANNZ_PDF_avg_0_err,ANNZ_PDF_avg_0_wgt,ANNZ_PDF_0_0,ANNZ_PDF_0_1,ANNZ_PDF_0_2,ANNZ_PDF_0_3,ANNZ_PDF_0_4,ANNZ_PDF_0_5,ANNZ_PDF_0_6,ANNZ_PDF_0_7,ANNZ_PDF_0_8,ANNZ_PDF_0_9,ANNZ_PDF_0_10,ANNZ_PDF_0_11,ANNZ_PDF_0_12,ANNZ_PDF_0_13,ANNZ_PDF_0_14,ANNZ_PDF_0_15,ANNZ_PDF_0_16,ANNZ_PDF_0_17,ANNZ_PDF_0_18,ANNZ_PDF_0_19,ANNZ_PDF_0_20,ANNZ_PDF_0_21,ANNZ_PDF_0_22,ANNZ_PDF_0_23,ANNZ_PDF_0_24,ANNZ_PDF_0_25,ANNZ_PDF_0_26,ANNZ_PDF_0_27,ANNZ_PDF_0_28,ANNZ_PDF_0_29,ANNZ_PDF_0_30,ANNZ_PDF_0_31,ANNZ_PDF_0_32,ANNZ_PDF_0_33,ANNZ_PDF_0_34,ANNZ_PDF_0_35,ANNZ_PDF_0_36,ANNZ_PDF_0_37,ANNZ_PDF_0_38,ANNZ_PDF_0_39,ANNZ_PDF_0_40,ANNZ_PDF_0_41,ANNZ_PDF_0_42,ANNZ_PDF_0_43,ANNZ_PDF_0_44,ANNZ_PDF_0_45,ANNZ_PDF_0_46,ANNZ_PDF_0_47,ANNZ_PDF_0_48,ANNZ_PDF_0_49,ANNZ_PDF_0_50,ANNZ_PDF_0_51,ANNZ_PDF_0_52,ANNZ_PDF_0_53,ANNZ_PDF_0_54,ANNZ_PDF_0_55,ANNZ_PDF_0_56,ANNZ_PDF_0_57,ANNZ_PDF_0_58,ANNZ_PDF_0_59,ANNZ_PDF_0_60,ANNZ_PDF_0_61,ANNZ_PDF_0_62,ANNZ_PDF_0_63,ANNZ_PDF_0_64,ANNZ_PDF_0_65,ANNZ_PDF_0_66,ANNZ_PDF_0_67,ANNZ_PDF_0_68,ANNZ_PDF_0_69,ANNZ_PDF_0_70,ANNZ_PDF_0_71,ANNZ_PDF_0_72,ANNZ_PDF_0_73,ANNZ_PDF_0_74,ANNZ_PDF_0_75,ANNZ_PDF_0_76,ANNZ_PDF_0_77,ANNZ_PDF_0_78,ANNZ_PDF_0_79,ANNZ_PDF_0_80,ANNZ_PDF_0_81,ANNZ_PDF_0_82,ANNZ_PDF_0_83,ANNZ_PDF_0_84,ANNZ_PDF_0_85,ANNZ_PDF_0_86,ANNZ_PDF_0_87,ANNZ_PDF_0_88,ANNZ_PDF_0_89,ANNZ_PDF_0_90,ANNZ_PDF_0_91,ANNZ_PDF_0_92,ANNZ_PDF_0_93,ANNZ_PDF_0_94,ANNZ_PDF_0_95,ANNZ_PDF_0_96,ANNZ_PDF_0_97,ANNZ_PDF_0_98,ANNZ_PDF_0_99,ANNZ_PDF_0_100,ANNZ_PDF_0_101,ANNZ_PDF_0_102,ANNZ_PDF_0_103,ANNZ_PDF_0_104,ANNZ_PDF_0_105,ANNZ_PDF_0_106,ANNZ_PDF_0_107,ANNZ_PDF_0_108,ANNZ_PDF_0_109,ANNZ_PDF_0_110,ANNZ_PDF_0_111,ANNZ_PDF_0_112,ANNZ_PDF_0_113,ANNZ_PDF_0_114,ANNZ_PDF_0_115,ANNZ_PDF_0_116,ANNZ_PDF_0_117,ANNZ_PDF_0_118,ANNZ_PDF_0_119,
+[11:17:26    INFO]  - Will parse  ANNZ_tree_randomReg(2232)... Now in ./output/SPEC_advanced20/regres/eval_nFile1/ANNZ_randomReg_0000.csv
+[11:17:27    INFO]  -- COUNTERS ------------------------------------------------------------------------------
+[11:17:27    INFO]  -- ANNZ_randomReg .................................. 2232  nObj
+[11:17:27    INFO]  -----------------------------------------------------------------------------------------------------------
+[11:17:28    INFO]  - detected the target,zspec in the evaluated sample - Will create performance plots ...
+[11:17:28    INFO]  - starting ANNZ::doMetricPlots() ... 
+[11:17:28    INFO]  - Will use (1) MLMs from the input chain: ANNZ_best,
+[11:17:28    INFO]  - Will use (1) PDFs from the input chain: PDF_0,
+[11:17:36    INFO]  - Writing to plotting directory output/SPEC_advanced20/regres/eval_nFile1/plots/
+
+(11:17 INFO) [40;37;1m - 29/03/19 11:17:41 - finished running ANNZ ![0m
