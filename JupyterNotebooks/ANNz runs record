@@ -1,0 +1,9 @@
+test_PAUS_advanced - initial test, only uses 10 bands, does not propogate errors
+
+PAUS_advanced1 - uses all narrow band data, no broad band data, propogates errors on narrow bands (error on zb?), uses ANNz_data2/3 (can't remember)
+
+PAUS_advanced2 - uses all narrow bands with errors and 8 broad band magnitudes (i_auto, umag, bmag, vmag, gmag, rmag, jmag, kmag) with error of 0.001, uses ANNz_data4.csv
+
+PAUS_advanced3 - all narrow bans and 8 broad bands. Uses ANNz_data5a.csv (test/train data) and evaluates performance using ANNz_data5b.csv
+
+PAUS_advanced4 - 
